@@ -85,3 +85,14 @@ body {
     justify-content: center;
     list-style-type: none;
     marging: 5em 0;
+    .dispositivos {
+ text-align: center;
+}
+
+. dispositivos __titulo{
+font-size: 48px;
+color: var (- -branco-principal);
+}
+.lista__item{
+font-size: 32px;
+color: var (- -branco-principal);
